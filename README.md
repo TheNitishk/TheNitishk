@@ -1,4 +1,4 @@
-![logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif)
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm TheNitishk</h1>
