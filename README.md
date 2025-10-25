@@ -14,12 +14,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AdCoW0FOt3inj9hNk6BopVjERJwuc87g/view?usp=drive_link](https://drive.google.com/file/d/1AdCoW0FOt3inj9hNk6BopVjERJwuc87g/view?usp=drive_link)
 
-- ⚡ Fun fact **I am funny😎😂**
+- ⚡ Fun fact I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nitish77" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheNitish/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitish77" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@nitishhvlog18" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheNitish/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@nitishhvlog18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitish77" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheNitish/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitish77" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nitishhvlog18" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheNitish/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@nitishhvlog18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
