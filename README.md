@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm TheNitishk</h1>
 <h3 align="center">Aspiring AWS & DevOps Engineer</h3>
-<img align="right" alt="coding" width="400" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/d807ca03-23e0-438d-82f7-1b6304344edc" />
-" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d807ca03-23e0-438d-82f7-1b6304344edc"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenitishk&label=Profile%20views&color=0e75b6&style=flat" alt="thenitishk" /> </p>
 
