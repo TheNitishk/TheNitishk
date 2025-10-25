@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm TheNitishk</h1>
 <h3 align="center">Aspiring AWS & DevOps Engineer</h3>
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/coding.gif" width="400" />
-</p>
+<img align="right=" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenitishk&label=Profile%20views&color=0e75b6&style=flat" alt="thenitishk" /> </p>
 
