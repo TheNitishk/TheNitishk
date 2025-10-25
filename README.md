@@ -1,5 +1,5 @@
+![logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif)
 ## Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm TheNitishk</h1>
 <h3 align="center">Aspiring AWS & DevOps Engineer</h3>
