@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm TheNitishk</h1>
 <h3 align="center">Aspiring AWS & DevOps Engineer</h3>
-<img align="right" alt="coding" width="400" src="<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/356faf40-f7c8-4743-89b8-11573ac113b3"/>
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=f95eb2d3c20a0c17&sxsrf=AE3TifM0gpmm1gknN60WJW93bIaiXo_Wqw:1761373395107&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOha3O1YqG67F0QIhAOFN_ob1yXos5K_Qo9Tq-0cVPzex8akBC0YDCZ6Kdb3tXvKc6RFFaJZ5G23Reu3aSyxvn2qD41n-47oj-b-f0NcRPP5lz0IcnVzj2DIj_DMpoDz5XbfZAMcEl5-58jjbkgCC_7e4L5AEDQ&q=animated+github+gif&sa=X&ved=2ahUKEwjs2aCc276QAxU04jgGHR8eLkoQtKgLegQIERAB&biw=1707&bih=772&dpr=1.13#vhid=N8Ehn8UbrUx_CM&vssid=mosaic"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenitishk&label=Profile%20views&color=0e75b6&style=flat" alt="thenitishk" /> </p>
 
