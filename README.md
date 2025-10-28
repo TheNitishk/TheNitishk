@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **nitishhk74@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AdCoW0FOt3inj9hNk6BopVjERJwuc87g/view?usp=drive_link](https://drive.google.com/file/d/1AdCoW0FOt3inj9hNk6BopVjERJwuc87g/view?usp=drive_link)
 
 - ⚡ Fun fact I am funny
 
